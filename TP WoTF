@@ -1,0 +1,14 @@
+﻿Le moteur de recherche Shodan
+
+
+Le moteur de recherche Shodan récupère via la barre de recherche, et sous forme de String, le littéral entré par l’utilisateur et interroge le web des données pour récupérer toutes les ressources du résultat de la requête SPARQL,avec leur contenu (leurs propriétés) et URLs respectifs. 
+
+
+
+
+Note: Il est possible de filtrer pour cibler les ressources, par exemple les sites utilisant des mots de passe par défaut aux USA, ou toutes les télévisions connectées dans le monde (il faut mettre le symbole « : » entre le littéral et le filtre).
+
+Une fois les ressources résultantes listées, nous avons accès à leur URL/URI respective d’accéder aux données qui nous intéressent.
+
+
+

@@ -11,10 +11,11 @@ import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.util.FileManager;
 
 public class WOTJena {
-	
+
+
 	public static final String ROUTIER_FILENAME = "aarhus_parking.ttl";
-	public static final String CLIMAT_FILENAME = "humidity.ttl";	
-	
+	public static final String CLIMAT_FILENAME = "humidity.ttl";
+
 	public static void main(String[] args) {
 		String selectedFileName = CLIMAT_FILENAME;
 		checkFiles(selectedFileName);

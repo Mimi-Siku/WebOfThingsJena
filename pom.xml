@@ -28,6 +28,6 @@
 			<artifactId>jena-arq</artifactId>
 			<version>3.9.0</version>
 		</dependency>
-	</dependencies>
+    </dependencies>
 
 </project>
